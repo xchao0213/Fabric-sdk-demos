@@ -1,0 +1,19 @@
+{
+  "name": "fabric-sdk-demos",
+  "version": "1.0.0",
+  "description": "fabric nodejs sdk demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fabric",
+    "sdk"
+  ],
+  "author": "Alberto",
+  "license": "MIT",
+  "devDependencies": {
+    "fabric-ca-client": "^1.1.0-preview",
+    "fabric-client": "^1.1.0-preview"
+  }
+}
