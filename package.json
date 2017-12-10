@@ -15,6 +15,6 @@
   "devDependencies": {
     "fabric-ca-client": "^1.1.0-preview",
     "fabric-client": "^1.1.0-preview",
-    "log4js": "^2.3.12"
+    "log4js": "^0.6.38"
   }
 }
